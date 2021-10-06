@@ -11,6 +11,23 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I've held a baby sloth and had an anaconda on my neck simultaneously 
 -->
+
+### Related Links
+
+
+<!-- blog start -->
+
+
+- [LinkedIn](https://www.linkedin.com/in/aleksei-kaminski/)<br/>
+
+  My LinkedIn
+
+- [Website](https://alekseikaminski.net)<br/>
+
+  My Website
+
+
+<!-- blog end -->
