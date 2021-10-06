@@ -21,13 +21,10 @@ Here are some ideas to get you started:
 <!-- blog start -->
 
 
-- [LinkedIn](https://www.linkedin.com/in/aleksei-kaminski/)<br/>
+- [My LinkedIn](https://www.linkedin.com/in/aleksei-kaminski/)<br/>
 
-  My LinkedIn
+- [My Website](https://alekseikaminski.net)<br/>
 
-- [Website](https://alekseikaminski.net)<br/>
-
-  My Website
 
 
 <!-- blog end -->
